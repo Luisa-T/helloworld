@@ -7,7 +7,7 @@ def fib(n): # line 4-8 define the variables used in the program
   j = 1
   n = n - 1
 
-  while n >= 0: # as long as n is bigger or equal to 0 then 11 and 12
+  while n >= 0: # as long as n is bigger or equal to 0 then execute 11 and 12
     i, j = j, i + j
     n = n - 1
   
