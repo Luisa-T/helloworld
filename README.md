@@ -14,4 +14,4 @@ The files CollatzLuTi.py and CollazLuTi.py are the the same but contain obviousl
 10. squares.py is a homework assigment.
 11. sumwhile.py is a homework assignment as well.
 irisdata.csv and irisdata.py is my attempt to try and resolve the homework assignment in relation to the iris dataset. I am still working on this.
-12. factorial.py is the homewokr assigment in relation to using the factorial function. I got some ispiration from stackoverflow in relation to this.
+12. factorial.py is the homework assigment in relation to using the factorial function. I got some inspiration from stackoverflow in relation to this.
