@@ -8,10 +8,10 @@ y = 1
 z = 0
 result = 0
 
-while z < 4000000:
+while z < 4000000: # as long as z is smaller than 40000000 do the following
    z = (x+y)         
-   if z%2 == 0:
-       result = result + z
+   if z%2 == 0: # even number
+       result = result + z # then the result is the result plus z
 
    #next iteration
 
